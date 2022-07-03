@@ -7,9 +7,10 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"author":"Eirik Boel Tesdal"
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git",
-		"author":"Eirik Boel Tesdal"
+
 	}
 }
